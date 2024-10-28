@@ -56,7 +56,7 @@ Training Data: Dataset of SMS and email messages labeled as spam or not spam.
 📂 Project Structure
 
 Copy
-├── app.py                 # Main application file
+├── app.py                 # Main application file 
 ├── model.pkl              # Trained machine learning model
 ├── vectorizer.pkl         # TF-IDF Vectorizer
 ├── requirements.txt       # List of dependencies
@@ -64,5 +64,7 @@ Copy
 ├── README.md              # Project description and usage guide
 ├── spam-detection.ipynb   # Machine Leanrning model
 ├── spam.csv               # dataset
+
+
 🤝 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request or open an issue.
